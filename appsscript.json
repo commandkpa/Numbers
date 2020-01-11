@@ -1,0 +1,8 @@
+{
+  "timeZone": "Asia/Yangon",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "chat": {
+  }
+}
